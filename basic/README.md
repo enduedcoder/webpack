@@ -1,4 +1,4 @@
-# webpack
+# webpack basic
 
 1. import and export our own js modules
 2. we can install any npm module and use
